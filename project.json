@@ -1,0 +1,24 @@
+{
+  "overview": "Auré Atelier is a luxury fashion boutique showcase landing page with hero, about, collections gallery, and contact sections. Features GSAP animations, parallax scrolling, smooth transitions, and premium micro-interactions designed as a high-quality client demo.",
+  "features": [
+    "Full-viewport hero with GSAP fade-in animations",
+    "Parallax scrolling effect on About section",
+    "Collections gallery with staggered card animations and hover micro-interactions",
+    "Contact form with loading and success feedback",
+    "Fixed navigation with scroll-to-section and mobile hamburger menu",
+    "Premium typography and luxury visual design",
+    "Smooth scroll and page transition effects"
+  ],
+  "category": "showcase",
+  "tags": [
+    "fashion",
+    "luxury",
+    "boutique",
+    "landing-page",
+    "gsap",
+    "animations",
+    "parallax",
+    "showcase"
+  ],
+  "last_updated": "2026-04-17T06:28:07.138Z"
+}
